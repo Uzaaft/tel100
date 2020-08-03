@@ -6,7 +6,7 @@ Course website: https://www.nmbu.no/course/TEL100
 TEL100 YouTube Channel: 
 ## Contents
 This Github repository contains the source code for all the different examples
-used in the 2020 *August Blokk*. Due to the COVID-19 pandemeic the course will be held over the internett. 
+used in the 2020 *August Blokk*. Due to the COVID-19 pandemic the course will be held over the internett. 
 The Github will be split in three parts, which will be as following:
 ```
 Tel100
