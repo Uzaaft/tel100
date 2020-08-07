@@ -35,5 +35,5 @@ Den eneste forandringen i koden blir at mot slutten så skriver vi følgende kod
 */
 
 ubidots.add("Bytt ut teksten her med navnet på variabelen som du vil se i Ubidots","Bytt ut teksten her, inkludert ""tegnene, med navnet på variabelen i koden din");
-ubidots.SendAll();
+ubidots.SendAll(); // Denne funksjonen sender alle tallene opp til ubidots sin sky, sånn at dette kan vises i dashboardet deres.
 }
