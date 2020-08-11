@@ -19,4 +19,4 @@ void loop()
     temperatur = ((vout * 500) / 1023); // En formel for å gjøre om tallet fra sensoren til celcius. Denne kan finnes ved å lese databladet, eller ved å google seg frem til formelen for sensoren.
 
     Particle.publish("Temperaturen i Celcius", String(temperatur));
-}
+:x
