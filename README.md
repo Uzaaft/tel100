@@ -8,15 +8,16 @@ Youtube kanalen: https://www.youtube.com/channel/UC4b9pdY28PHa_HYZkz1ZZ5g
 
 Studentene vil trenge følgende utstyr for kurset:
 
+1. En PC
+2. Arduino Kit. Disse kan bli kjøpt enten fra foreleserne, eller fra en butikk.
+For.eksempel Kjell & Company
+3. Hvis du har en PC med bare USB-C porter vil du trenge en USB hub.
+
 ## Contents
 Dette Github repoet inneholder alle eksemplene som vil bli brukt i 2020 semesteret.
 På grunn av COVID-19 pandemien vil kurset bli holdt over internett.
 Dette Github repoet vil bli splittet i 3 deler, som vil være som følgende:
 
-1. En PC
-2. Arduino Kit. Disse kan bli kjøpt enten fra foreleserne, eller fra en butikk.
-For.eksempel Kjell & Company
-3. Hvis du har en PC med bare USB-C porter vil du trenge en USB hub.
 
 ```
 Tel100
